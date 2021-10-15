@@ -16,7 +16,7 @@ BotballHacks was designed for the intent of ease of calibration and use of botba
 <A NAME = "Tutorial"></A>
 ## Getting Started
 **Note:** This is a work in progress at the moment better method coming soon
-1. Copy and paste [the code](BotballHacks/HarrysBotballCode.c) into your code
+1. Copy and paste [the code](https://github.com/Henry-Willson/BotballHacks/blob/main/HarrysBotballCode.c) into your code
 2. Calibrate your robot by adjusting the calibration constant need. For help you can find the calibration tutorial [here.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ```C
 // Calibration constants
